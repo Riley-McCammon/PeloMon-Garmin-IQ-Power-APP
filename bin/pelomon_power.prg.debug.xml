@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/App.mc" id="1" lineNum="7" parent="globals/App" pc="268435456" symbol="initialize"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/App.mc" id="1" lineNum="8" parent="globals/App" pc="268435460" symbol="initialize"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/App.mc" id="2" lineNum="12" parent="globals/App" pc="268435479" symbol="onStart"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/App.mc" id="2" lineNum="13" parent="globals/App" pc="268435483" symbol="onStart"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/App.mc" id="2" lineNum="14" parent="globals/App" pc="268435513" symbol="onStart"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/App.mc" id="2" lineNum="15" parent="globals/App" pc="268435537" symbol="onStart"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/App.mc" id="3" lineNum="19" parent="globals/App" pc="268435556" symbol="onStop"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/App.mc" id="3" lineNum="20" parent="globals/App" pc="268435560" symbol="onStop"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/App.mc" id="4" lineNum="24" parent="globals/App" pc="268435579" symbol="getInitialView"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/App.mc" id="4" lineNum="25" parent="globals/App" pc="268435583" symbol="getInitialView"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/App.mc" id="5" lineNum="4" parent="globals/App" pc="268437475" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/App.mc" id="5" lineNum="4" parent="globals/App" pc="268437475" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/App.mc" id="6" lineNum="30" parent="globals" pc="268435629" symbol="getApp"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/App.mc" id="6" lineNum="31" parent="globals" pc="268435641" symbol="getApp"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="8" lineNum="24" parent="globals/BleDevice" pc="268435658" symbol="debug"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="8" lineNum="25" parent="globals/BleDevice" pc="268435662" symbol="debug"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="9" lineNum="28" parent="globals/BleDevice" pc="268435687" symbol="initialize"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="9" lineNum="29" parent="globals/BleDevice" pc="268435691" symbol="initialize"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="9" lineNum="30" parent="globals/BleDevice" pc="268435709" symbol="initialize"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="10" lineNum="33" parent="globals/BleDevice" pc="268435727" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="10" lineNum="34" parent="globals/BleDevice" pc="268435731" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="10" lineNum="35" parent="globals/BleDevice" pc="268435769" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="10" lineNum="36" parent="globals/BleDevice" pc="268435800" symbol="onCharacteristicChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="11" lineNum="40" parent="globals/BleDevice" pc="268435820" symbol="onProfileRegister"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="11" lineNum="41" parent="globals/BleDevice" pc="268435824" symbol="onProfileRegister"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="12" lineNum="44" parent="globals/BleDevice" pc="268435854" symbol="registerProfiles"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="12" lineNum="45" parent="globals/BleDevice" pc="268435858" symbol="registerProfiles"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="12" lineNum="57" parent="globals/BleDevice" pc="268436016" symbol="registerProfiles"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="13" lineNum="60" parent="globals/BleDevice" pc="268436037" symbol="onScanStateChange"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="13" lineNum="61" parent="globals/BleDevice" pc="268436041" symbol="onScanStateChange"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="13" lineNum="62" parent="globals/BleDevice" pc="268436070" symbol="onScanStateChange"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="13" lineNum="63" parent="globals/BleDevice" pc="268436088" symbol="onScanStateChange"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="13" lineNum="65" parent="globals/BleDevice" pc="268436101" symbol="onScanStateChange"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="69" parent="globals/BleDevice" pc="268436112" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="70" parent="globals/BleDevice" pc="268436116" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="71" parent="globals/BleDevice" pc="268436154" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="72" parent="globals/BleDevice" pc="268436172" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="73" parent="globals/BleDevice" pc="268436182" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="74" parent="globals/BleDevice" pc="268436182" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="75" parent="globals/BleDevice" pc="268436182" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="77" parent="globals/BleDevice" pc="268436182" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="78" parent="globals/BleDevice" pc="268436182" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="79" parent="globals/BleDevice" pc="268436203" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="80" parent="globals/BleDevice" pc="268436210" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="81" parent="globals/BleDevice" pc="268436231" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="82" parent="globals/BleDevice" pc="268436238" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="83" parent="globals/BleDevice" pc="268436259" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="84" parent="globals/BleDevice" pc="268436266" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="89" parent="globals/BleDevice" pc="268436329" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="90" parent="globals/BleDevice" pc="268436358" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="91" parent="globals/BleDevice" pc="268436370" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="14" lineNum="94" parent="globals/BleDevice" pc="268436388" symbol="onConnectedStateChanged"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="15" lineNum="98" parent="globals/BleDevice" pc="268436398" symbol="&lt;globals/BleDevice/&lt;&gt;connect&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="15" lineNum="99" parent="globals/BleDevice" pc="268436402" symbol="&lt;globals/BleDevice/&lt;&gt;connect&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="15" lineNum="100" parent="globals/BleDevice" pc="268436419" symbol="&lt;globals/BleDevice/&lt;&gt;connect&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="15" lineNum="101" parent="globals/BleDevice" pc="268436419" symbol="&lt;globals/BleDevice/&lt;&gt;connect&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="15" lineNum="102" parent="globals/BleDevice" pc="268436447" symbol="&lt;globals/BleDevice/&lt;&gt;connect&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="16" lineNum="105" parent="globals/BleDevice" pc="268436466" symbol="&lt;globals/BleDevice/&lt;&gt;dumpUuids&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="16" lineNum="106" parent="globals/BleDevice" pc="268436470" symbol="&lt;globals/BleDevice/&lt;&gt;dumpUuids&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="16" lineNum="107" parent="globals/BleDevice" pc="268436490" symbol="&lt;globals/BleDevice/&lt;&gt;dumpUuids&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="17" lineNum="111" parent="globals/BleDevice" pc="268436527" symbol="&lt;globals/BleDevice/&lt;&gt;isPelomon&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="17" lineNum="112" parent="globals/BleDevice" pc="268436531" symbol="&lt;globals/BleDevice/&lt;&gt;isPelomon&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="17" lineNum="113" parent="globals/BleDevice" pc="268436587" symbol="&lt;globals/BleDevice/&lt;&gt;isPelomon&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="17" lineNum="114" parent="globals/BleDevice" pc="268436614" symbol="&lt;globals/BleDevice/&lt;&gt;isPelomon&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="17" lineNum="115" parent="globals/BleDevice" pc="268436631" symbol="&lt;globals/BleDevice/&lt;&gt;isPelomon&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="17" lineNum="116" parent="globals/BleDevice" pc="268436648" symbol="&lt;globals/BleDevice/&lt;&gt;isPelomon&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="17" lineNum="119" parent="globals/BleDevice" pc="268436680" symbol="&lt;globals/BleDevice/&lt;&gt;isPelomon&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="18" lineNum="122" parent="globals/BleDevice" pc="268436684" symbol="&lt;globals/BleDevice/&lt;&gt;dumpMfg&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="18" lineNum="123" parent="globals/BleDevice" pc="268436688" symbol="&lt;globals/BleDevice/&lt;&gt;dumpMfg&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="18" lineNum="124" parent="globals/BleDevice" pc="268436708" symbol="&lt;globals/BleDevice/&lt;&gt;dumpMfg&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="128" parent="globals/BleDevice" pc="268436782" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="129" parent="globals/BleDevice" pc="268436786" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="130" parent="globals/BleDevice" pc="268436803" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="131" parent="globals/BleDevice" pc="268436803" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="132" parent="globals/BleDevice" pc="268436803" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="133" parent="globals/BleDevice" pc="268436823" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="134" parent="globals/BleDevice" pc="268436836" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="135" parent="globals/BleDevice" pc="268436849" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="136" parent="globals/BleDevice" pc="268436862" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="137" parent="globals/BleDevice" pc="268436875" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="139" parent="globals/BleDevice" pc="268436888" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="140" parent="globals/BleDevice" pc="268436926" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="141" parent="globals/BleDevice" pc="268436940" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="143" parent="globals/BleDevice" pc="268436954" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="144" parent="globals/BleDevice" pc="268436979" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="19" lineNum="145" parent="globals/BleDevice" pc="268436993" symbol="onScanResults"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="20" lineNum="150" parent="globals/BleDevice" pc="268437014" symbol="open"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="20" lineNum="151" parent="globals/BleDevice" pc="268437018" symbol="open"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="20" lineNum="152" parent="globals/BleDevice" pc="268437030" symbol="open"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="21" lineNum="155" parent="globals/BleDevice" pc="268437059" symbol="close"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="21" lineNum="156" parent="globals/BleDevice" pc="268437063" symbol="close"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="21" lineNum="157" parent="globals/BleDevice" pc="268437080" symbol="close"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="21" lineNum="158" parent="globals/BleDevice" pc="268437091" symbol="close"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="21" lineNum="160" parent="globals/BleDevice" pc="268437122" symbol="close"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="21" lineNum="161" parent="globals/BleDevice" pc="268437133" symbol="close"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="22" lineNum="19" parent="globals/BleDevice" pc="268437456" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="22" lineNum="19" parent="globals/BleDevice" pc="268437456" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="23" lineNum="12" parent="globals" pc="268437287" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="23" lineNum="13" parent="globals" pc="268437318" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="23" lineNum="14" parent="globals" pc="268437346" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="23" lineNum="15" parent="globals" pc="268437374" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/BleDevice.mc" id="23" lineNum="16" parent="globals" pc="268437402" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/View.mc" id="24" lineNum="11" parent="globals/View" pc="268437161" symbol="initialize"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/View.mc" id="24" lineNum="12" parent="globals/View" pc="268437165" symbol="initialize"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/View.mc" id="24" lineNum="13" parent="globals/View" pc="268437183" symbol="initialize"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/View.mc" id="24" lineNum="14" parent="globals/View" pc="268437196" symbol="initialize"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/View.mc" id="25" lineNum="22" parent="globals/View" pc="268437207" symbol="compute"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/View.mc" id="25" lineNum="24" parent="globals/View" pc="268437211" symbol="compute"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/View.mc" id="25" lineNum="25" parent="globals/View" pc="268437228" symbol="compute"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/View.mc" id="25" lineNum="26" parent="globals/View" pc="268437237" symbol="compute"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/View.mc" id="25" lineNum="27" parent="globals/View" pc="268437256" symbol="compute"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/View.mc" id="25" lineNum="30" parent="globals/View" pc="268437265" symbol="compute"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/View.mc" id="26" lineNum="7" parent="globals/View" pc="268437494" symbol="&lt;init&gt;"/>
+        <entry filename="/Users/rileymccammon/Documents/pelomon_IQ/pelomon_power/source/View.mc" id="26" lineNum="7" parent="globals/View" pc="268437494" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="28" lineNum="2" parent="globals/Rez/Drawables" pc="268437450" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="29" lineNum="6" parent="globals/Rez/Fonts" pc="268437452" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="30" lineNum="8" parent="globals/Rez/JsonData" pc="268437454" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="31" lineNum="10" parent="globals/Rez/Layouts" pc="268437453" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="32" lineNum="12" parent="globals/Rez/Menus" pc="268437451" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="33" lineNum="14" parent="globals/Rez/Strings" pc="268437455" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="34" lineNum="1" parent="globals/Rez" pc="268437426" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="34" lineNum="1" parent="globals/Rez" pc="268437426" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry id="8391339" symbol="companyId"/>
+        <entry field="true" id="11" symbol="CPS"/>
+        <entry field="true" id="10" symbol="DEVICE_NAME"/>
+        <entry id="30" method="true" symbol="&lt;globals/BleDevice/&lt;&gt;dumpMfg&gt;"/>
+        <entry field="true" id="13" symbol="UART"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="8391256" method="true" symbol="onScanResults"/>
+        <entry id="9" object="true" symbol="App"/>
+        <entry id="28" method="true" symbol="&lt;globals/BleDevice/&lt;&gt;dumpUuids&gt;"/>
+        <entry field="true" id="23" symbol="AppName"/>
+        <entry field="true" id="8389807" symbol="data"/>
+        <entry id="8391255" method="true" symbol="onScanStateChange"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="27" method="true" symbol="&lt;globals/BleDevice/&lt;&gt;connect&gt;"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry field="true" id="16" symbol="CPS_FEATURE_CHAR"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="29" method="true" symbol="&lt;globals/BleDevice/&lt;&gt;isPelomon&gt;"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="19" object="true" symbol="BleDevice"/>
+        <entry id="8391340" symbol="descriptors"/>
+        <entry field="true" id="15" symbol="CPS_MEASUREMENT_CHAR"/>
+        <entry id="8391263" method="true" symbol="onCharacteristicChanged"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8391258" method="true" symbol="onConnectedStateChanged"/>
+        <entry id="21" module="true" symbol="Menus"/>
+        <entry id="8389275" method="true" symbol="getApp"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry field="true" id="14" symbol="CPS_SERVICE"/>
+        <entry id="8389137" method="true" symbol="compute"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="8389793" method="true" symbol="debug"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="26" method="true" symbol="registerProfiles"/>
+        <entry id="8391257" method="true" symbol="onProfileRegister"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry field="true" id="24" symbol="scanning"/>
+        <entry id="8389256" method="true" symbol="open"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="22" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry field="true" id="12" symbol="CSCS"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry id="8391334" symbol="uuid"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry field="true" id="8388961" symbol="power"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8391341" symbol="characteristics"/>
+        <entry field="true" id="31" symbol="bleDevice"/>
+        <entry field="true" id="25" symbol="device"/>
+        <entry id="20" module="true" symbol="Layouts"/>
+        <entry id="8389257" method="true" symbol="close"/>
+        <entry field="true" id="17" symbol="CPS_SENSOR_LOC_CHAR"/>
+        <entry field="true" id="18" symbol="CPS_MEASUREMENT_DESC"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+        <entry id="8389023" object="true" symbol="View"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435555" name="state" stackId="1" startPc="268435479"/>
+        <entry arg="true" endPc="268435578" name="state" stackId="1" startPc="268435556"/>
+        <entry arg="true" endPc="268435686" name="str" stackId="1" startPc="268435658"/>
+        <entry arg="true" endPc="268435819" name="ch" stackId="1" startPc="268435727"/>
+        <entry arg="true" endPc="268435819" name="value" stackId="2" startPc="268435727"/>
+        <entry arg="true" endPc="268435853" name="status" stackId="2" startPc="268435820"/>
+        <entry arg="true" endPc="268435853" name="uuid" stackId="1" startPc="268435820"/>
+        <entry endPc="268436035" name="profile" stackId="1" startPc="268435858"/>
+        <entry arg="true" endPc="268436111" name="status" stackId="2" startPc="268436037"/>
+        <entry arg="true" endPc="268436111" name="scanState" stackId="1" startPc="268436037"/>
+        <entry endPc="268436384" name="service" stackId="3" startPc="268436172"/>
+        <entry endPc="268436384" name="ch" stackId="4" startPc="268436172"/>
+        <entry endPc="268436384" name="desc" stackId="5" startPc="268436172"/>
+        <entry arg="true" endPc="268436397" name="device" stackId="1" startPc="268436112"/>
+        <entry arg="true" endPc="268436397" name="state" stackId="2" startPc="268436112"/>
+        <entry endPc="268436464" name="ret" stackId="2" startPc="268436402"/>
+        <entry arg="true" endPc="268436465" name="result" stackId="1" startPc="268436398"/>
+        <entry endPc="268436525" name="x" stackId="2" startPc="268436490"/>
+        <entry arg="true" endPc="268436526" name="iter" stackId="1" startPc="268436466"/>
+        <entry endPc="268436679" name="x" stackId="3" startPc="268436614"/>
+        <entry endPc="268436679" name="i" stackId="4" startPc="268436614"/>
+        <entry endPc="268436682" name="uuids" stackId="2" startPc="268436531"/>
+        <entry arg="true" endPc="268436683" name="iter" stackId="1" startPc="268436527"/>
+        <entry endPc="268436780" name="x" stackId="2" startPc="268436708"/>
+        <entry arg="true" endPc="268436781" name="iter" stackId="1" startPc="268436684"/>
+        <entry endPc="268437012" name="result" stackId="8" startPc="268436823"/>
+        <entry endPc="268437012" name="service" stackId="7" startPc="268436786"/>
+        <entry endPc="268437012" name="appearance" stackId="2" startPc="268436786"/>
+        <entry endPc="268437012" name="name" stackId="3" startPc="268436786"/>
+        <entry endPc="268437012" name="uuids" stackId="6" startPc="268436786"/>
+        <entry endPc="268437012" name="rssi" stackId="4" startPc="268436786"/>
+        <entry endPc="268437012" name="mfg" stackId="5" startPc="268436786"/>
+        <entry arg="true" endPc="268437013" name="scanResults" stackId="1" startPc="268436782"/>
+        <entry arg="true" endPc="268437206" name="device" stackId="1" startPc="268437161"/>
+        <entry arg="true" endPc="268437286" name="info" stackId="1" startPc="268437207"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/Rez" offset="238" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="317" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="356" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="387" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="418" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="449" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="480" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/BleDevice" offset="519" parentId="globals" symbolId="BleDevice" type="class"/>
+        <dataEntry label="globals/App" offset="694" parentId="globals" symbolId="App" type="class"/>
+        <dataEntry label="globals/View" offset="773" parentId="globals" symbolId="View" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" endPc="268435478" name="initialize" parent="App" startPc="268435456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435555" name="onStart" parent="App" startPc="268435479">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435578" name="onStop" parent="App" startPc="268435556">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435628" name="getInitialView" parent="App" startPc="268435579">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437493" name="&lt;init&gt;" parent="App" startPc="268437475">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435657" name="getApp" startPc="268435629">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268435686" name="debug" parent="BleDevice" startPc="268435658">
+            <param id="str"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435726" name="initialize" parent="BleDevice" startPc="268435687">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435819" name="onCharacteristicChanged" parent="BleDevice" startPc="268435727">
+            <param id="ch"/>
+            <param id="value"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268435853" name="onProfileRegister" parent="BleDevice" startPc="268435820">
+            <param id="uuid"/>
+            <param id="status"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436036" name="registerProfiles" parent="BleDevice" startPc="268435854">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436111" name="onScanStateChange" parent="BleDevice" startPc="268436037">
+            <param id="scanState"/>
+            <param id="status"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436397" name="onConnectedStateChanged" parent="BleDevice" startPc="268436112">
+            <param id="device"/>
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436465" name="&lt;globals/BleDevice/&lt;&gt;connect&gt;" parent="BleDevice" startPc="268436398">
+            <param id="result"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436526" name="&lt;globals/BleDevice/&lt;&gt;dumpUuids&gt;" parent="BleDevice" startPc="268436466">
+            <param id="iter"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436683" name="&lt;globals/BleDevice/&lt;&gt;isPelomon&gt;" parent="BleDevice" startPc="268436527">
+            <param id="iter"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="private" endPc="268436781" name="&lt;globals/BleDevice/&lt;&gt;dumpMfg&gt;" parent="BleDevice" startPc="268436684">
+            <param id="iter"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437013" name="onScanResults" parent="BleDevice" startPc="268436782">
+            <param id="scanResults"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437058" name="open" parent="BleDevice" startPc="268437014">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437160" name="close" parent="BleDevice" startPc="268437059">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437474" name="&lt;init&gt;" parent="BleDevice" startPc="268437456">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437206" name="initialize" parent="View" startPc="268437161">
+            <param id="device"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268437286" name="compute" parent="View" startPc="268437207">
+            <param id="info"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437512" name="&lt;init&gt;" parent="View" startPc="268437494">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437450" name="&lt;init&gt;" parent="Drawables" startPc="268437450">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437452" name="&lt;init&gt;" parent="Fonts" startPc="268437452">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437454" name="&lt;init&gt;" parent="JsonData" startPc="268437454">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437453" name="&lt;init&gt;" parent="Layouts" startPc="268437453">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437451" name="&lt;init&gt;" parent="Menus" startPc="268437451">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437455" name="&lt;init&gt;" parent="Strings" startPc="268437455">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="protected" endPc="268437449" name="&lt;init&gt;" parent="Rez" startPc="268437426">
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
