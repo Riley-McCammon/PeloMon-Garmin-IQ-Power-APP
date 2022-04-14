@@ -73,7 +73,7 @@ class BleDevice extends Ble.BleDelegate {
 			var desc;
 
 			try{
-				service = device.getService(CPS_SERVICE);
+				service = device.getService(CPS_SERVICE); // Seems to be failing here! Not sure of a fix...
 				if(service != null){
 					ch = service.getCharacteristic(CPS_MEASUREMENT_CHAR);
 					if(ch != null){
